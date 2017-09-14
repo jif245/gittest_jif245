@@ -1,0 +1,195 @@
+    1  sudo apt-get update
+    2  sudo apt-get install python python-dev python-pip python3 python3-dev python3-pip git
+    3  python --version
+    4  python3 --version
+    5  pip3 install virtualenv
+    6  ls
+    7  emacs -nw ~/.bashrc 
+    8  nano ~/.bashrc
+    9  cd ..
+   10  cd pui-user/
+   11  ls
+   12  pip3 install virtualenv
+   13  locate virtualenv
+   14  virtualenv venv
+   15  pip3 purge virtualenv
+   16  pip3 remove virtualenv
+   17  pip3 uninstall virtualenv
+   18  sudo apt-get install virtualenv
+   19  virtualenv venv
+   20  rm -rf venv/
+   21  virtualenv --help
+   22  virtualenv venv
+   23  cd ..
+   24  cd pui-user/
+   25  cd ..
+   26  source pui-user/.bashrc 
+   27  cd pui-user/
+   28  ls
+   29  pip install numpy scipy matplotlib pandas
+   30  pip install scikit-learn
+   31  pip install ipython jupyter notebook
+   32  ipython
+   33  pip install tk
+   34  rm -rf venv/
+   35  deactivate
+   36  virtualenv venv --python=python3
+   37  pip --version
+   38  pip3 --versionD
+   39  pip3 install numpy scipy matplotlib pandas ipython jupyter notebook
+   40  cd ..
+   41  cd pui-user/
+   42  ipython
+   43  deactivate
+   44  pip3 uninstall numpy scipy matplotlib pandas ipython jupyter notebook
+   45  cd ..
+   46  cd pui-user/
+   47  pip --version
+   48  pip install numpy scipy matplotlib pandas ipython jupyter notebook
+   49  sudo apt-get install -y tkinter
+   50  sudo apt-get install -y python-tkinter
+   51  ipython
+   52  sudo apt-get install python3-tk
+   53  ipython
+   54  jupyter notebook
+   55  python2 -m pip install ipykernel
+   56  python2 -m ipykernel install --user
+   57  jupyter notebook
+   58  ls
+   59  mkdir devel
+   60  ls
+   61  cd devel/
+   62  ls
+   63  cd ..
+   64  deactivate
+   65  rm -rf venv
+   66  cd devel/
+   67  mkdir venv
+   68  rm -rf venv/
+   69  virtualenv venv --python=python3
+   70  sudo apt-get install -y tkinter
+   71  pip install numpy scipy matplotlib pandas ipython jupyter notebook
+   72  sudo apt-get install -y tkinter
+   73  sudo apt-get install python3-tk
+   74  sudo apt-get install python2-tk
+   75  sudo apt-get install python-tk
+   76  python2 -m pip install ipykernel
+   77  pip uninstall numpy scipy matplotlib pandas ipython jupyter notebook
+   78  python2 -m pip uinstall ipykernel
+   79  python2 -m pip uninstall ipykernel
+   80  cd ..
+   81  cd devel/
+   82  pip uninstall numpy scipy matplotlib pandas ipython jupyter notebook
+   83  pip install numpy scipy matplotlib pandas ipython jupyter notebook
+   84  python2 -m pip install ipykernel
+   85  python2 -m ipykernel install --user
+   86  jupyter notebook
+   87  ls
+   88  sudo apt-get update
+   89  sudo apt-get install wget curl
+   90  ls
+   91  cd venv/
+   92  ls
+   93  cd bin/
+   94  ls
+   95  nano activate.csh 
+   96  cd ..
+   97  ls
+   98  cd ..
+   99  ls
+  100  nano~/.bash_profile
+  101  nano~/.bashhrc
+  102  nano~/.bashrc
+  103  nano ~/.bashrc
+  104  ls
+  105  cd devel
+  106  ls
+  107  ipython
+  108  jupyternotebooks
+  109  jupyter notebooks
+  110  ls
+  111  cd devel
+  112  jupyter notebooks
+  113  jupyter
+  114  cd venv
+  115  ls
+  116  cd devel
+  117  nano ~/.bashrc
+  118  emacs
+  119  notes
+  120  note
+  121  alias notebook="ssh jif245@nyu.edu -L 8000:compute.cusp.nyu.edu:8000"
+  122  alis ls
+  123  alias ls
+  124  alias notebook
+  125  nano ~/.bashrc
+  126  ssh-keygen
+  127  ssh-copy-id jif245@nyu.edu
+  128  notebook
+  129  nano ~/.bashrc
+  130  notebook
+  131  ssh-keygen
+  132  ssh-copy-id jif245@nyu.edu
+  133  notebook
+  134  ssh-keygen
+  135  ssh-copy-id jif245@nyu.edu
+  136  nano ~/.bashrc
+  137  ssh-keygen
+  138  ssh-copy-id jif245@nyu.edu
+  139  vi
+  140  vi hello.txt
+  141  vi
+  142  python helloWorld.py
+  143  git
+  144* ssh -X -A -t cuspid@gw.cusp.nyu.edu ssh -A -X comput
+  145  git
+  146  mkdir gittest_jif245
+  147  cd gittest_jif245/
+  148  git init
+  149  git status
+  150  touch myfirstfile.txt
+  151  dir
+  152  git status
+  153  git add myfirstfile.txt 
+  154  git status
+  155  git commit myfirstfile.txt 
+  156  git commit myfirstfile.txt -m "my first commit to this repo"
+  157  git config --global jif245@nyu.edu
+  158  git config --global user.email jif245@nyu.edu
+  159  git commit myfirstfile.txt -m "my first commit to this repo"
+  160  git push
+  161  git remote add origin https://github.com/MyVirtualEffigy/PUI2017_jif245
+  162  git remote add origin https://github.com/MyVirtualEffigy/PUI2017_jif245.git
+  163  git push
+  164  git remote add origin https://github.com/MyVirtualEffigy/PUI2017_jif245.git
+  165  git push -u origin master
+  166  git status
+  167  dir
+  168  git commit myfirstfile.txt 
+  169  dir
+  170  git status
+  171  git pull myfirstfile.txt
+  172  git remote add origin https://github.com/MyVirtualEffigy/PUI2017_jif245.git
+  173  git pull myfirstfile.txt
+  174  git push -u origin master
+  175  dir
+  176  git status
+  177  vi myfirstfile.txt 
+  178  git status
+  179  vi myfirstfile.txt 
+  180  git status
+  181  git push -u origin master
+  182  vi myfirstfile.txt 
+  183  commit myfirstfile.txt 
+  184  git commit myfirstfile.txt 
+  185  vi myfirstfile.txt 
+  186  emacs myfirstfile.txt 
+  187  git commit myfirstfile.txt 
+  188  git commit myfirstfile.txt -m "lololo"
+  189  emacs myfirstfile.txt 
+  190  git commit myfirstfile.txt -m "lololo"
+  191  git status
+  192  git push myfirstfile.txt
+  193  git pull myfirstfile.txt
+  194  history
+  195  history >>history.txt
